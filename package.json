@@ -1,3 +1,15 @@
 {
-  "name": "html-stringify-loader"
+  "name": "html-stringify-loader",
+  "version": "1.0.0",
+  "description": "html stringify loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-casagrande/html-stringify-loader"
+  },
+  "license": "MIT",
+  "author": {
+    "name" : "David Casagrande",
+    "email" : "dncasagrande@gmail.com"
+  }
 }
